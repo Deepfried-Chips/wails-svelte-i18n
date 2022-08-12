@@ -2,11 +2,11 @@
 
 ## About
 
+**This requires [Wails](https://wails.io)**
+
 Wails svelte template to feature i18n in frontend
 
 Start a wails project using `wails init -n "project name" -t "https://github.com/Deepfried-Chips/wails-svelte-i18n"`
-
-==This requires [Wails](https://wails.io)==
 
 ## Live Development
 
