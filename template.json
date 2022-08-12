@@ -1,0 +1,7 @@
+{
+  "name": "Wails Svelte i18n",
+  "shortname": "wails-svelte-i18n",
+  "author": "https://github.com/Deepfried-Chips",
+  "description": "Default wails svelte template but with i18n implemented with frontend",
+  "helpurl": "https://github.com/Deepfried-Chips/wails-svelte-i18n"
+}

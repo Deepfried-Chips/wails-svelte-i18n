@@ -1,0 +1,8 @@
+{
+  "page": {
+    "home": {
+      "welcome": "Please enter your name below 👇",
+      "greet": "Hello %s, it's show time!"
+    }
+  }
+}
