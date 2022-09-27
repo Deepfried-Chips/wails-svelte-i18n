@@ -14,6 +14,7 @@
 <main>
     <img alt="Wails logo" id="logo" src="{logo}">
     <div class="result" id="result">{resultText}</div>
+    <div class="result">{$_('page.home.localized', {default: "Welcome to your localized svelte template!"})}</div>
     <div class="input-box" id="input">
         <input data-wails-no-drag autocomplete="off" bind:value={name} class="input" id="name" type="text"/>
         <button class="btn" on:click={greet}>Greet</button>
