@@ -3,7 +3,8 @@
     "home": {
       "localized": "Welcome to your localized svelte template!",
       "welcome": "Please enter your name below 👇",
-      "greet": "Hello %s, it's show time!"
+      "greet": "Hello %s, it's show time!",
+      "greetbutton": "Greet"
     }
   }
 }
