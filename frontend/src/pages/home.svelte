@@ -17,7 +17,7 @@
     <div class="result">{$_('page.home.localized', {default: "Welcome to your localized svelte template!"})}</div>
     <div class="input-box" id="input">
         <input data-wails-no-drag autocomplete="off" bind:value={name} class="input" id="name" type="text"/>
-        <button class="btn" on:click={greet}>$_('page.home.greetbutton', {default: 'Greet'})</button>
+        <button class="btn" on:click={greet}>{$_('page.home.greetbutton', {default: 'Greet'})}</button>
     </div>
 </main>
 
